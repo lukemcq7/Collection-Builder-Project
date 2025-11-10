@@ -20,11 +20,6 @@ This resilience is echoed in the official reports and public health records that
 The headline regarding federal disaster help in the newspaper conveys more than just news; it depicts a moment when local resiliency met national acknowledgment. Following months of seclusion and uncertainty, Collier County's recovery became a part of a broader narrative about Florida's reconstruction.
 When taken as a whole, these resources provide a cohesive narrative of how a tiny Gulf Coast town confronted the force of nature, reacted bravely and together came out stronger. In the end, Hurricane Donna in Collier County is a tale of remembrance and rebirth that retains not just the harm caused but also the tenacity required to overcome it. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
