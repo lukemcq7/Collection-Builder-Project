@@ -20,13 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder- Project
+title: Hurricane Donna in Collier County
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Using collection builder
+tagline: Archival perspectives on the storm that chnaged Collier County
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Collection Builder project
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+description: This collection explores Hurricane Donna’s lasting influence on Collier County’s history, health, and infrastructure. Through a combination of visual and textual sources, it highlights the storm’s physical destruction, the emergency management that followed, and the lessons learned by local and state agencies. Together, these items invite reflection on how communities prepare for, survive, and remember natural disasters.
 author: Luke McQuagge
 
 ##########
