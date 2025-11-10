@@ -6,7 +6,7 @@
 
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
-#
+url: https://lukemcq7.github.io
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
 #url: https://collectionbuilder.github.io 
@@ -33,7 +33,7 @@ author: Luke McQuagge
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: Metadata Homework
+metadata: metadata-homework
 
 ##########
 # Site/Organization Branding 
